@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Minh Dang!\n");
+  printf("Dylan Diehl\n");
 
   return 0;
 }
